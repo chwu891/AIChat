@@ -7,6 +7,15 @@ It leverages **dependency injection, protocol-oriented programming, and modulari
 
 ![AIChat Architecture](https://github.com/chwu891/AIChat/blob/main/architecture.jpg)  
 
+## 🎥 Demo Videos  
+Experience AIChat in action:  
+
+🔹 **[Full App Walkthrough](https://github.com/chwu891/AIChat/blob/main/demo1.mp4)** – Explore the entire app's features and functionality.  
+🔹 **[Creating an AI Avatar](https://github.com/chwu891/AIChat/blob/main/demo2.mp4)** – See how users can generate and customize AI-powered avatars.  
+🔹 **[Real-Time Chat with AI](https://github.com/chwu891/AIChat/blob/main/demo3.mp4)** – Watch a live AI conversation in action.  
+
+---
+
 ## 🛠 App Technologies  
 - **VIPER Architecture** – Ensures modularity and separation of concerns.  
 - **SwiftUI & Observation Framework** – Provides a modern declarative UI with responsive state management.  
